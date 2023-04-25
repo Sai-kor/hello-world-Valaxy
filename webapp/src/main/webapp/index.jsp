@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning at valaxy </h1>
+   <h1> The end,Good luck </h1>
 
   
 </form>
