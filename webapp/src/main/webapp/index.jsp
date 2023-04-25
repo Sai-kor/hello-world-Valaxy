@@ -1,15 +1,15 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Helloo !! Register for Valaxy DevOps project Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Haiii !! Register for Valaxy DevOps project Learning</h1>
+    <p>Please fill everything in this form to create an account.</p>
     <hr>
      
     <label for="Your Name"><b>Enter your user Name</b></label>
     <input type="text" placeholder="Enter your Full Name" name="Name" id="Name" required>
     
     
-    <label for="mobile"><b>Enter your own mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter your own phone</b></label>
+    <input type="text" placeholder="Enter your phone number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter your own Email ID</b></label>
